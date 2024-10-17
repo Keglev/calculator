@@ -1,6 +1,57 @@
 ## About
-A small calculator made in React and Java Script
+A simple Math calculator. 
 
+# Calculator App
+
+This simple calculator is for basic Math operations only. 
+
+# Table of Contents
+
+[Features](#Features) 
+
+[Screenshots](#Screenshots)
+
+[Installation](#Instalation)
+
+[Usage](#Usage)
+
+[Available Scripts](#Available-Scripts)
+
+[Technologies](#Technologies)
+
+[Contributing](#Contributing)
+
+# Features
+
+The calculator performs basic math calculations.
+clean design, no distractions
+It accepts inputs from the screen (mouse-click) and the keyboard
+This does not accept input from letters
+
+# Screenshots
+
+<img src="./src/assets/imgs/project-image.png" alt="Screenshot 1" width="600" height="300"/>
+
+# Installation
+To run this app locally, follow these steps:
+
+1. Clone the repository:
+
+  git clone https://github.com/your-username/restaurant-finder-app.git
+
+2. Navigate to the project directory:
+   
+  cd restaurant-finder-app
+
+3. Install the dependencies:
+
+   npm install
+
+## Usage
+
+ This is a simple calculator. Mimics the Windows calculator 
+ This is not intended for scientific calculation
+ 
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -64,10 +115,20 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/m
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
 
-### Deployment
+## Technologies:
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+Frontend: *React, React Router
 
-### `npm run build` fails to minify
+Backend: *JavaScript
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Styling: *CSS
+
+## Contributing
+
+Contributions are welcome! Here's how you can contribute:
+
+1. Fork the repository.
+2. Create a new branch (git checkout -b feature/YourFeatureName).
+3. Commit your changes (git commit -m 'Add some feature').
+4. Commit your changes (git commit -m 'Add some feature').
+5. Open a pull request.
